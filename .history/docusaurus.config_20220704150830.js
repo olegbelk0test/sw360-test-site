@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ГейТактікс.ua',
+  title: 'ГейТактікс точка юей',
   tagline: 'новини про ігорі від Ігоря',
   url: 'https://belk0-playground.netlify.app',
   baseUrl: '/',
